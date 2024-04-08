@@ -1,0 +1,4 @@
+*.csv
+.*.sw?
+.ipynb_checkpoints/
+Data_Dictionary.md
